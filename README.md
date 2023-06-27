@@ -9,11 +9,7 @@
 
 - 📫 How to reach me **eatulrajput@gmail.com**
 
-<p align="left">
-<a href="https://linkedin.com/in/eatulraajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eatulraajput" height="30" width="40" /></a>
-<a href="https://fb.com/eatulrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eatulrajput" height="30" width="40" /></a>
-<a href="https://instagram.com/eatulrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eatulrajput" height="30" width="40" /></a>
-</p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&" alt="eatulrajput" /></p>
