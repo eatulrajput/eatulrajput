@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [eatulrajput.github.io](eatulrajput.github.io)
-
+- /**👨‍💻 All of my projects are available at [eatulrajput.github.io](eatulrajput.github.io)
+  **/
 - 📫 How to reach me **eatulrajput@gmail.com**
 
 
