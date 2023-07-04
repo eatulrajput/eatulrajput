@@ -15,5 +15,4 @@
         src="https://github-readme-stats.vercel.app/api?username=eatulrajput&show_icons=true&locale=en"
         alt="eatulrajput" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&" alt="eatulrajput" /></p>
