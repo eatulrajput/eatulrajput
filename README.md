@@ -4,4 +4,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&" alt="eatulrajput" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxfr&" alt="nyxfr" /></p>
+
 [![An image of @eatulrajput's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eatulrajput)](https://holopin.io/@eatulrajput)
