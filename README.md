@@ -12,4 +12,10 @@ I do programming a little when I like to in free time, rest of the time I like t
 <br>
 Ahh.. right now, I am learning Java.
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=eatulrajput&theme=shades-of-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![eatulrajput's Stats](https://github-readme-stats.vercel.app/api?username=eatulrajput&theme=default&show_icons=true&hide_border=false&count_private=true)
+
+<br>
+![eatulrajput's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&theme=default&hide_border=false)
+
+<br>
+![eatulrajput's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eatulrajput&theme=default&show_icons=true&hide_border=false&layout=compact)
