@@ -12,6 +12,7 @@ I do programming a little when I like to in free time, rest of the time I like t
 <br>
 Ahh.. right now, I am learning Java.
 <br>
-![eatulrajput's Stats](https://github-readme-stats.vercel.app/api?username=eatulrajput&theme=default&show_icons=true&hide_border=false&count_private=true)
-[![eatulrajput's GitHub | Languages Over Time](https://stats.quine.sh/eatulrajput/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eatulrajput)
-[![eatulrajput's GitHub | Stats](https://stats.quine.sh/eatulrajput/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eatulrajput)
+
+<h1>All About Hacktoberfest 2022 and 2023 </h1>
+
+[![Atul's Holopin board](https://holopin.me/eatulrajput)](https://holopin.io/@eatulrajput)
