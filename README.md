@@ -27,16 +27,3 @@ Ahh.. right now, I am learning Java.
 ## Contribution in Hachtoberfest 2023
 [![Atul's Holopin board](https://holopin.me/eatulrajput)](https://holopin.io/@eatulrajput)
 
-<br>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eatulrajput&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=eatulrajput&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
