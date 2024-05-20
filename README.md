@@ -13,6 +13,6 @@ I do programming a little when I like to in free time, rest of the time I like t
 Ahh.. right now, I am learning Java.
 <br>
 
-<h1>All About Hacktoberfest 2022 and 2023 </h1>
+<h1>Contribution in Hachtoberfest 2023 </h1>
 
 [![Atul's Holopin board](https://holopin.me/eatulrajput)](https://holopin.io/@eatulrajput)
