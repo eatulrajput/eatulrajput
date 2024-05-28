@@ -12,9 +12,6 @@ I do programming a little when I like to in free time, rest of the time I like t
 <br>
 Ahh.. right now, I am learning Java.
 <br>
-
-<br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eatulrajput&show_icons=true&locale=en&layout=compact" alt="eatulrajput" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eatulrajput&show_icons=true&locale=en" alt="eatulrajput" /></p>
