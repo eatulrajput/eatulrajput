@@ -25,3 +25,12 @@ Ahh.. right now, I am learning Java.
 ## Contribution in Hachtoberfest 2023
 [![Atul's Holopin board](https://holopin.me/eatulrajput)](https://holopin.io/@eatulrajput)
 
+<summary><b>⚙️GitHub Analytics</b></summary>
+<a href="https://github.com/eatulrajput">
+   <img height="155em" src="https://raw.githubusercontent.com/eatulrajput/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Atul Rajput github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/eatulrajput/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Atul Rajput github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/eatulrajput/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Atul Rajput github stats" />
+  <img height="155em" src="https://raw.githubusercontent.com/eatulrajput/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Atul Rajput github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/eatulrajput/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
+     
+
