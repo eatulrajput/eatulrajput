@@ -1,5 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=eatulrajput&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/eatulrajput/eatulrajput/bd881368cfb536f8d2e7ead22a89490b282fa168/programming-animate.svg" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 ### <div align="center">Hello amigos! Thanks for visiting my profile—nice to see you here!</div>
 
 ## Want to know a little more about me?
@@ -11,7 +13,6 @@ No...
 Ok, then...
 <br>
 
-<img src="https://raw.githubusercontent.com/eatulrajput/eatulrajput/bd881368cfb536f8d2e7ead22a89490b282fa168/programming-animate.svg" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 👨🏻‍💻 **About Me**  
 I'm currently a student at KIIT University, pursuing a BTech in Electronics and Computer Science since 2022.
