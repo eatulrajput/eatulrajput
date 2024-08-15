@@ -6,6 +6,7 @@ No...
 <br>
 Ok, then...
 <br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/eatulrajput/eatulrajput/bd881368cfb536f8d2e7ead22a89490b282fa168/programming-animate.svg" min-width="300px" max-width="300px" width="350px" align="right"> 
 I am a student at KIIT University pursing Btech in Electronics and Computer Science right now since 2022.
 ### What I do
 I do programming a little when I like to in free time, rest of the time I like to do overthinking!
