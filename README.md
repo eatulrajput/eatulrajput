@@ -13,14 +13,6 @@ I am a student at KIIT University pursing Btech in Electronics and Computer Scie
 I do programming a little when I like to in free time, rest of the time I like to do overthinking!
 <br>
 Ahh.. right now, I am learning Java.
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eatulrajput&show_icons=true&locale=en&layout=compact" alt="eatulrajput" align="left" /></p>
-<br>
-<br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&" alt="eatulrajput" align="left" /></p>
-
-<br>
-
 
 ## Contribution in Hachtoberfest 2023
 [![Atul's Holopin board](https://holopin.me/eatulrajput)](https://holopin.io/@eatulrajput)
