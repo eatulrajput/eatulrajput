@@ -16,9 +16,9 @@ Ahh.. right now, I am learning Java.
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eatulrajput&show_icons=true&locale=en&layout=compact" alt="eatulrajput" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eatulrajput&show_icons=true&locale=en" alt="eatulrajput" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eatulrajput&show_icons=true&locale=en" alt="eatulrajput" align="left" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&" alt="eatulrajput" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&" alt="eatulrajput" align="left" /></p>
 
 <br>
 
