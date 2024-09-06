@@ -2,9 +2,11 @@
   <img src="https://visitcount.itsvg.in/api?id=eatulrajput&label=Profile%20Views&color=1&icon=0&pretty=false" alt="Profile Views">
 </a>
 
-<img src="https://raw.githubusercontent.com/eatulrajput/eatulrajput/bd881368cfb536f8d2e7ead22a89490b282fa168/programming-animate.svg" style="min-width: 300px; max-width: 300px; width: 350px; float: right; margin-left: 20px;">
-
-<img src="https://github.com/eatulrajput/eatulrajput/blob/main/octocat.png" style="min-width: 300px; max-width: 300px; width: 350px; float: right; margin-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/eatulrajput/eatulrajput/bd881368cfb536f8d2e7ead22a89490b282fa168/programming-animate.svg" style="min-width: 300px; max-width: 300px; width: 350px; margin-left: 20px;">
+  
+  <img src="https://github.com/eatulrajput/eatulrajput/blob/main/octocat.png" style="min-width: 300px; max-width: 300px; width: 350px; margin-right: 20px;">
+</div>
 
 <div style="overflow: hidden;">
   <h3 style="text-align: center;">Hello amigos! Thanks for visiting my profile—nice to see you here!</h3>
