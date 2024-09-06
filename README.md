@@ -17,6 +17,8 @@
   <p>I do a bit of programming when I have free time. The rest of the time, I indulge in overthinking!<br>Right now, I’m learning Java.</p>
 </div>
 
+<img src="" style="min-width: 300px; max-width: 300px; width: 350px; float: right; margin-left: 20px;">
+
 <h2>Contributions to Hacktoberfest 2023</h2>
 <a href="https://holopin.io/@eatulrajput">
   <img src="https://holopin.me/eatulrajput" alt="Atul's Holopin board">
