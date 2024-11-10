@@ -32,3 +32,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&theme=tokyonight" alt="GitHub Streak" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatulrajput&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
+![eatulrajput github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=eatulrajput)
