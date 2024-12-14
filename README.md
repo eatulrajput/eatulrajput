@@ -21,7 +21,7 @@
   <p>When I’m not overthinking (a true skill!), I’m dabbling in programming. Right now, I’m diving into Java.</p>
 </div>
 
-<h2>Contributions to Hacktoberfest 2023</h2>
+<h2>Contributions to Hacktoberfest</h2>
 <a href="https://holopin.io/@eatulrajput">
   <img src="https://holopin.me/eatulrajput" alt="Atul's Holopin board" style="display: block; margin: 20px auto;">
 </a>
