@@ -11,11 +11,4 @@
 
   <h2>Hacktoberfest Contributions</h2>
   <p>Actively contributed to Hacktoberfest, showcasing my enthusiasm for open-source development. Visit my Holopin board for details: <a href="https://holopin.io/@eatulrajput">Holopin Profile</a>.</p>
-
-  <h2>GitHub Stats</h2>
-  <ul>
-    <li><strong>Profile Stats:</strong> <a href="https://github-readme-stats.vercel.app/api?username=eatulrajput&show_icons=true&theme=tokyonight">View Stats</a></li>
-    <li><strong>Streak Stats:</strong> <a href="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&theme=tokyonight">View Streak</a></li>
-    <li><strong>Top Languages:</strong> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eatulrajput&layout=compact&theme=tokyonight">View Languages</a></li>
-  </ul>
 </div>
