@@ -11,4 +11,8 @@
 
   <h2>Hacktoberfest Contributions</h2>
   <p>Actively contributed to Hacktoberfest, showcasing my enthusiasm for open-source development. Visit my Holopin board for details: <a href="https://holopin.io/@eatulrajput">Holopin Profile</a>.</p>
+
+  <div style="text-align: center; margin-top: 20px;">
+    <img src="https://github.com/eatulrajput/eatulrajput/blob/main/programming-animate.svg" alt="Programming Animation" style="max-width: 50%; height: auto;">
+  </div>
 </div>
