@@ -25,15 +25,10 @@
 <a href="https://holopin.io/@eatulrajput">
   <img src="https://holopin.me/eatulrajput" alt="Atul's Holopin board" style="display: block; margin: 20px auto;">
 </a>
-</br>
 
-<h2 align='center'><i><a href="https://github.com/eatulrajput/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/eatulrajput/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=eatulrajput&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/eatulrajput/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=eatulrajput&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<h2>GitHub Stats</h2>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=eatulrajput&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eatulrajput&theme=tokyonight" alt="GitHub Streak" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatulrajput&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
