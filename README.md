@@ -7,7 +7,7 @@
   <p>I’m Atul Rajput, an undergraduate student at KIIT University, pursuing a BTech in Electronics and Computer Science since 2022.</p>
 
   <h2>Technical Skills</h2>
-  <p>Currently focusing on Java programming and diving into software development principles to enhance my skillset. I also have experience in participating in ML projects and am exploring the integration of technology into microloan applications.</p>
+  <p>Currently specializing in Java programming and exploring software development principles to build a strong foundation for scalable applications. Additionally, I am actively learning machine learning to broaden my expertise and stay aligned with emerging technologies.</p>
 
   <h2>Hacktoberfest Contributions</h2>
   <p>Actively contributed to Hacktoberfest, showcasing my enthusiasm for open-source development. Visit my Holopin board for details: <a href="https://holopin.io/@eatulrajput">Holopin Profile</a>.</p>
