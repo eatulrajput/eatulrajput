@@ -6,3 +6,5 @@ GitHub is for code, so avoid:
     Spammers & bots (some accounts just post junk).
     Low-quality repos (projects with no documentation or purpose).
     People who don’t align with your interests (follow devs you actually want to learn from).
+
+💡 Tip: Don't just follow people—engage with projects, star repos, and contribute! 🚀 Find your interests.
