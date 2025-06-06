@@ -6,7 +6,7 @@ I'm **Atul**, a final year undergraduate student pursuing a B.Tech in `Electroni
 
 I'm currently exploring **Machine Learning**, and trying to upskill myself in **software development**.
 
-I still consider myself a beginner in this field, but I'm curious and always eager to learn as much as I can.
+I consider myself a beginner in this field, but I'm curious and always eager to learn as much as I can.
 
 ---
 
