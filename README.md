@@ -2,7 +2,7 @@
 
 ### Warm welcome to my GitHub profile — thanks for visiting!
 
-I'm **Atul**, a 3rd-year undergraduate student pursuing a B.Tech in `Electronics & Computer Science Engineering` from **KIIT University**.
+I'm **Atul**, a final year undergraduate student pursuing a B.Tech in `Electronics & Computer Science Engineering` from **KIIT University**.
 
 I'm currently exploring **Machine Learning**, and trying to upskill myself in **software development**.
 
