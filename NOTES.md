@@ -180,3 +180,74 @@ GitHub/Online	A few engaged devs or groups
 🎤 Final truth:
 
 It’s not about how many people you know — it’s about whether you’re visible, helpful, and curious in the places that matter to you.
+
+---
+Following people on GitHub isn't about popularity—it's about staying connected to meaningful work, learning opportunities, and collaborations. Here's a guide to help you decide *who to follow* and *who to avoid* (or unfollow), even when it involves friends or classmates:
+
+---
+
+### ✅ **Who to Follow on GitHub**
+
+1. **People Who Build or Contribute to Projects You're Interested In**
+
+   * If someone is maintaining a project, tool, or library you use or admire, follow them.
+   * Example: Maintainers of React, Python, TensorFlow, etc., if you're into web dev, scripting, or ML.
+
+2. **Peers Whose Work Inspires You**
+
+   * Classmates or friends who share useful, clean, or creative code.
+   * People who push updates regularly or explore cool projects.
+
+3. **Developers Who Document and Teach**
+
+   * Some devs write detailed READMEs, good commit messages, and share learning resources.
+   * If their repo structure teaches you better coding practices, they're worth following.
+
+4. **Open Source Contributors**
+
+   * Even if they're not "famous", consistent contributors to open source projects often have great workflows and practices you can learn from.
+
+5. **Tech Industry Figures**
+
+   * Engineers from major tech companies who work on public projects or share insights (e.g., on Go, Rust, Linux kernel, etc.).
+
+6. **Project Creators You Rely On**
+
+   * If you depend on their code or libraries for your work, following them helps you stay updated.
+
+---
+
+### ❌ **Who *Not* to Follow on GitHub**
+
+1. **Inactive Users**
+
+   * Friends or classmates who created a GitHub account but never really use it or have one old repo with nothing in it.
+
+2. **Spam or Fork-Only Accounts**
+
+   * If someone only forks repositories without adding value (no commits, no issues, no pull requests), there’s nothing to gain by following them.
+
+3. **Unoriginal/Copy-Paste Coders**
+
+   * If someone just clones tutorials or pushes code from YouTube without credit or understanding, it doesn’t add much to your feed.
+
+4. **“Just Friends” with No Coding Activity**
+
+   * Following for friendship alone can clutter your GitHub activity feed. GitHub is more like LinkedIn for code than Instagram for friends.
+
+5. **Private-Only Users**
+
+   * If a person only works on private repos and doesn’t interact publicly (issues, stars, discussions), following them doesn’t benefit you.
+
+---
+
+### 💡 Pro Tips
+
+* **Use "Star" for Repos, Not Just "Follow" for People:** If someone made a single great repo, star it instead of following the whole person.
+* **Check Their Activity Tab:** See how often they contribute, what kind of code they write, and how they engage with others.
+* **Curate Over Time:** Unfollow people whose activity becomes irrelevant to you. Your GitHub feed should be a useful resource, not a stream of noise.
+
+---
+
+Want me to look at a specific GitHub profile and help you decide whether it's worth following? Just drop the username!
+
