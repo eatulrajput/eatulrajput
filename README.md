@@ -1,3 +1,4 @@
+![Tag](https://github.com/user-attachments/assets/6710639a-03df-4698-bd0c-10189324679c)
 <h1 align="center"> Warm welcome to my GitHub profile — thanks for visiting!</h1>
 
 I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in `Electronics & Computer Science Engineering` at **KIIT University**, India.
