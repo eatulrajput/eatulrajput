@@ -1,16 +1,45 @@
-![Tag](https://github.com/user-attachments/assets/6710639a-03df-4698-bd0c-10189324679c)
+<h1 align="center"> Warm welcome to my GitHub profile — thanks for visiting!</h1>
 
-### Warm welcome to my GitHub profile — thanks for visiting!
-
-I'm **Atul**, a final year undergraduate student pursuing a B.Tech in `Electronics & Computer Science Engineering` from **KIIT University**.
-
-I'm currently exploring **Machine Learning**, and trying to upskill myself in **software development**.
-
-I consider myself a beginner in this field, but I'm curious and always eager to learn as much as I can.
+I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in `Electronics & Computer Science Engineering` at **KIIT University**, India.
 
 ---
 
-**I am open to talk about ML and AI related tools and want to learn in those areas.**
+### About Me
 
-You can contact me over [LinkedIn](https://linkedin.com/in/eatulrajput)
+- I’m currently in the final year of my engineering program.
+- Actively exploring and learning about **Machine Learning**, **Artificial Intelligence**, and **Software Development**.
+- I consider myself a beginner, but I’m driven by curiosity and committed to continuous learning.
+- I enjoy meaningful conversations around **AI/ML tools**, modern tech stacks, and development workflows.
+- Currently seeking **internship or full-time opportunities** in ML engineering, data science, or software development roles.
+
+---
+
+### Skills & Tools
+
+- **Languages:** Python, Java(Learning)
+- **ML Frameworks:** Scikit-learn, TensorFlow (beginner), Pandas, NumPy
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, Linux, Google Colab
+- **Soft Skills:** Self-motivated, team player, quick learner
+---
+
+### Projects
+
+> _(Coming soon — still working on curating and cleaning up my repositories)_
+
+- Currently working on Major Project(making a ChatBot) in my 7th Semester
+- Stay tuned for open-source contributions and personal ML projects!
+
+---
+
+### Let’s Connect
+
+I'm always open to networking, collaborations, or just a chat about ML, AI, or software development.
+
+- Reach out via [LinkedIn](https://linkedin.com/in/eatulrajput)
+- Email: eatulrajput[at]gmail[dot]com
+
+---
+
+_Thanks again for stopping by! Feel free to explore my repositories._
+
 
