@@ -96,6 +96,3 @@ Follow a **mix of people + orgs + tools** so your feed stays relevant:
   * [Papers with Code](https://paperswithcode.com)
   * [Sebastian Raschka](https://github.com/rasbt) for applied ML tips
 
----
-
-Would you like a **starter repo list** based on your level (beginner, intermediate, advanced)? Or suggestions on what projects to build to practice LLMs or ML?
