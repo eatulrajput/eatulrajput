@@ -97,13 +97,3 @@ Here’s how to **get the best out of GitHub for backend dev** — plus whom to 
 * 🧪 Fork projects and tinker with configs (e.g., Docker, CI).
 * 🧵 Watch discussions on FastAPI, Flask, Django for insights into real-world issues.
 * 🔁 Clone projects that simulate real apps (APIs, user auth, payments, etc.).
-
----
-
-Would you like:
-
-* A **learning roadmap** to go from beginner to advanced in backend?
-* A **list of project ideas** to build your own backend systems?
-* Guidance on **contributing to backend open-source projects**?
-
-Let me know what you'd like next.
