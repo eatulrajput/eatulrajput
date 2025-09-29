@@ -432,8 +432,10 @@ People and few orgs use this convention: look at https://www.conventionalcommits
 
 #### Reference:
 
-https://www.youtube.com/watch?v=mklEhT_RLos
+https://www.youtube.com/watch?v=mklEhT_RLos (YouTube Tutorial)
 
+https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/ (Reference of a first time contributor)
 
+https://youtu.be/vBbDAk5WYEo?feature=shared (James Pearce Keynote on Open source)
 
 
