@@ -1,43 +1,51 @@
-<h1 align="center">👋 Warm welcome to my GitHub profile — thanks for visiting!</h1>
+![Tag](https://github.com/user-attachments/assets/6710639a-03df-4698-bd0c-10189324679c)
+<h1 align="center">Warm welcome to my GitHub profile — thanks for visiting!</h1>
 
-I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in `Electronics & Computer Science Engineering` at **KIIT University**, India.
+I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in **Electronics & Computer Science Engineering** at **KIIT University**, India.
 
 ---
 
 ### 👨‍💻 About Me
 
-- Final-year engineering student passionate about building things with Python.
-- Focused on learning and improving in **Python development**, scripting, and software engineering.
-- Curious learner with a strong interest in solving real-world problems through code.
-- Actively seeking **internship or full-time opportunities** in software development roles.
+- Final-year engineering student passionate about building robust backend systems with Python.
+- Learning to design, build, and deploy scalable web applications and RESTful APIs.
+- Strong interest in system design, clean code, and backend best practices.
+- Currently seeking **internship or full-time roles** in Python backend or software development.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Tech Stack
 
 - **Languages:** Python
-- **Libraries & Frameworks:** Flask (learning), Pandas, NumPy
-- **Tools:** Git, GitHub, VS Code, Linux, Jupyter Notebook
-- **Other:** Clean code practices, debugging, version control
+- **Frameworks & Libraries:** Flask, FastAPI (learning), Django (basic)
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **ORMs:** SQLAlchemy, Django ORM
+- **Tools & Platforms:** Git, GitHub, Linux, Docker (basic), Postman
+- **Other:** REST API development, version control, debugging, clean code principles
 
 ---
 
 ### 📂 Projects
 
-> _(Coming soon — currently organizing and documenting my repositories)_
+> _(More projects coming soon — currently organizing and refining my repositories)_
 
-- Currently working on my **Major Project (7th Semester)** — building a chatbot using Python.
-- More Python-based projects and open-source contributions coming soon.
+- **Major Project (7th Semester):**  
+  Developing a **Python-based chatbot application** with backend logic and user interaction flow handled using Flask.
+
+- Planning to build and publish:
+  - REST API demo apps
+  - Authentication systems
+  - Backend services with FastAPI or Django
 
 ---
 
 ### 🤝 Let’s Connect
 
-Always open to networking, collaboration, or chatting about software development.
+I'm always open to collaboration, networking, or just a chat about Python and backend development.
 
-- 📇 [LinkedIn](https://linkedin.com/in/eatulrajput)
-- 📬 Email: eatulrajput[at]gmail[dot]com
+- 🔗 [LinkedIn](https://linkedin.com/in/eatulrajput)
+- 📧 Email: eatulrajput[at]gmail[dot]com
 
 ---
 
-_Thanks again for stopping by! Feel free to explore my repositories and reach out anytime._
+_Thanks again for visiting! Feel free to explore my repositories and drop me a message if you'd like to connect._
