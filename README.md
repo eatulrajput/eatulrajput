@@ -30,7 +30,7 @@ I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in **Electron
 > _(More projects coming soon — currently organizing and refining my repositories)_
 
 - **Major Project (7th Semester):**  
-  Developing a **Python-based chatbot application** with backend logic and user interaction flow handled using Flask.
+  Developing a **Python-based chatbot application** with backend logic and user interaction flow handled using FastAPI.
 
 - Planning to build and publish:
   - REST API demo apps
