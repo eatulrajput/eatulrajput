@@ -17,9 +17,9 @@ I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in **Electron
 ### 🛠️ Tech Stack
 
 - **Languages:** Python
-- **Frameworks & Libraries:** Flask, FastAPI (learning), Django (basic)
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **ORMs:** SQLAlchemy, Django ORM
+- **Frameworks & Libraries:** FastAPI , Flask(Basic), Django(Basic)
+- **Databases:** PostgreSQL(Learning), MySQL, SQLite
+- **ORMs:** SQLAlchemy
 - **Tools & Platforms:** Git, GitHub, Linux, Docker (basic), Postman
 - **Other:** REST API development, version control, debugging, clean code principles
 
