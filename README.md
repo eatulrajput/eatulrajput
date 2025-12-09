@@ -9,7 +9,7 @@ I’m a backend-focused developer who enjoys building clean, reliable systems an
 - **Tools:** Git, Linux, Docker, Postman
 
 ### Current Projects
-- Python chatbot backend built with FastAPI(8th semester :Major Project)
+- Python chatbot backend built with FastAPI(8th semester : Major Project)
 
 ### Get in Touch
 - [Message me on LinkedIn](https://linkedin.com/in/eatulrajput)
