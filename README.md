@@ -5,12 +5,13 @@ I’m a backend-focused developer who enjoys building clean, reliable systems an
 ### What I Work With
 - **Languages:** Python
 - **Backend:** FastAPI(more focus on this framework)
-- **Databases:** MySQL SQLite
+- **Databases:** MySQL, MongoDB, SQLite
 - **Tools:** Git, Linux, Docker, Postman
 
 ### Current Projects
-- Python chatbot backend built with FastAPI(Major Project)
+- Python chatbot backend built with FastAPI(8th semester :Major Project)
 
 ### Get in Touch
-- 🔗 [LinkedIn](https://linkedin.com/in/eatulrajput)
-- ✉️ [Email](mailto:eatulrajput@gmail.com)
+- [Message me on LinkedIn](https://linkedin.com/in/eatulrajput)
+- [Or write an Email](mailto:eatulrajput@gmail.com)
+- [You can Connect over Discord too!](https://discord.com/users/1140188543252172922)
