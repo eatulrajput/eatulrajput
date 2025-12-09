@@ -1,51 +1,16 @@
-![Tag](https://github.com/user-attachments/assets/6710639a-03df-4698-bd0c-10189324679c)
-<h1 align="center">Warm welcome to my GitHub profile — thanks for visiting!</h1>
+# Hi, I’m Atul
 
-I'm **Atul**, a final-year undergraduate student pursuing a B.Tech in **Electronics & Computer Science Engineering** at **KIIT University**, India.
+I’m a backend-focused developer who enjoys building clean, reliable systems and learning how software scales.
 
----
-
-### 👨‍💻 About Me
-
-- Final-year engineering student passionate about building robust backend systems with Python.
-- Learning to design, build, and deploy scalable web applications and RESTful APIs.
-- Strong interest in system design, clean code, and backend best practices.
-- Currently seeking **internship or full-time roles** in Python backend or software development.
-
----
-
-### 🛠️ Tech Stack
-
+### What I Work With
 - **Languages:** Python
-- **Frameworks & Libraries:** FastAPI , Flask(Basic), Django(Basic)
-- **Databases:** PostgreSQL(Learning), MySQL, SQLite
-- **ORMs:** SQLAlchemy
-- **Tools & Platforms:** Git, GitHub, Linux, Docker (basic), Postman
-- **Other:** REST API development, version control, debugging, clean code principles
+- **Backend:** FastAPI(more focus on this framework)
+- **Databases:** MySQL SQLite
+- **Tools:** Git, Linux, Docker, Postman
 
----
+### Current Projects
+- Python chatbot backend built with FastAPI(Major Project)
 
-### 📂 Projects
-
-> _(More projects coming soon — currently organizing and refining my repositories)_
-
-- **Major Project (7th Semester):**  
-  Developing a **Python-based chatbot application** with backend logic and user interaction flow handled using FastAPI.
-
-- Planning to build and publish:
-  - REST API demo apps
-  - Authentication systems
-  - Backend services with FastAPI or Django
-
----
-
-### 🤝 Let’s Connect
-
-I'm always open to collaboration, networking, or just a chat about Python and backend development.
-
+### Get in Touch
 - 🔗 [LinkedIn](https://linkedin.com/in/eatulrajput)
-- 📧 Email: eatulrajput[at]gmail[dot]com
-
----
-
-_Thanks again for visiting! Feel free to explore my repositories and drop me a message if you'd like to connect._
+- ✉️ [Email](mailto:eatulrajput@gmail.com)
