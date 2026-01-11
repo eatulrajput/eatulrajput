@@ -1,17 +1,15 @@
-# Hi, I’m Atul
+### Hi, I’m Atul.
 
-I’m a backend-focused developer who enjoys building clean, reliable systems and learning how software scales.
+Welcome to my profile.
 
-### What I Work With
-- **Languages:** Python
-- **Backend:** FastAPI(more focus on this framework)
-- **Databases:** MySQL, MongoDB, SQLite
-- **Tools:** Git, Linux, Docker, Postman
+I’m currently working on a chatbot backend project.
 
-### Current Projects
-- Python chatbot backend built with FastAPI(8th semester : Major Project)
+**Built with:**  
+Python · Flask · MongoDB · React · Git · Linux · Postman
 
-### Get in Touch
-- [Message me on LinkedIn](https://linkedin.com/in/eatulrajput)
-- [Or write an Email](mailto:eatulrajput@gmail.com)
-- [You can Connect over Discord too!](https://discord.com/users/1140188543252172922)
+This is an 8th semester major project, focused on backend architecture and API design.
+
+If this project sparks your interest or you’d like to share ideas, feel free to reach out:  
+- [LinkedIn](https://linkedin.com/in/eatulrajput)  
+- [Email](mailto:eatulrajput@gmail.com)  
+- [Discord](https://discord.com/users/1140188543252172922)
