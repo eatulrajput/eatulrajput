@@ -272,25 +272,25 @@ This helps everyone quickly understand the purpose of the branch.
 ### Common prefixes:
 
 > [!TIP]
->feature/ → new functionality
->fix/ or bugfix/ → bug fixes
->hotfix/ → urgent production fixes
->chore/ → maintenance tasks
->refactor/ → code improvements without behavior change
->docs/ → documentation updates
+> feature/ → new functionality
+> fix/ or bugfix/ → bug fixes
+> hotfix/ → urgent production fixes
+> chore/ → maintenance tasks
+> refactor/ → code improvements without behavior change
+> docs/ → documentation updates
 
 ### Examples:
 
->[!NOTE]
->feature/user-login
->fix/payment-api-error
->refactor/auth-service
+> [!NOTE]
+> feature/user-login
+> fix/payment-api-error
+> refactor/auth-service
 
->[!TIPS]
->Keep Names Short but Descriptive.
->Use Lowercase + Hyphens
->Avoid spaces or camelCase
->Create Branches From develop or main
+> [!TIPS]
+> Keep Names Short but Descriptive.
+> Use Lowercase + Hyphens
+> Avoid spaces or camelCase
+> Create Branches From develop or main
 
 ---
 
