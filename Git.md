@@ -250,4 +250,16 @@ If you accidently deleted a branch or made changes that are no longer visible in
 ```bash
 git reflog <commit-hash>
 git reset --hard <commit-hash>
+```
+### git cherry-pick
+`git cherry-pick` it applies the changes introduced by some existing commits
+```bash
+git cherry-pick
+```
+
+Given one or more existing commits, apply the change each one introduces, recording a new commit for each. This requires your working tree to be clean (no modifications from the HEAD commit)
+
+```bash
+git cherry-pick <commit-hash> # last commit-hash
+git reset --hard <commit-hash>
 
