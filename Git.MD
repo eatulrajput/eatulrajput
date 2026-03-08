@@ -286,7 +286,7 @@ This helps everyone quickly understand the purpose of the branch.
 > fix/payment-api-error
 > refactor/auth-service
 
-> [!TIPS]
+> [!TIP]
 > Keep Names Short but Descriptive.
 > Use Lowercase + Hyphens
 > Avoid spaces or camelCase
