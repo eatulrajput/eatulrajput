@@ -262,4 +262,114 @@ Given one or more existing commits, apply the change each one introduces, record
 ```bash
 git cherry-pick <commit-hash> # last commit-hash
 git reset --hard <commit-hash>
+```
+---
 
+## Best Practices: Branching
+Use a Prefix Based on the Work Type
+This helps everyone quickly understand the purpose of the branch.
+
+### Common prefixes:
+
+> [!TIP]
+>feature/ → new functionality
+>fix/ or bugfix/ → bug fixes
+>hotfix/ → urgent production fixes
+>chore/ → maintenance tasks
+>refactor/ → code improvements without behavior change
+>docs/ → documentation updates
+
+### Examples:
+
+>[!NOTE]
+>feature/user-login
+>fix/payment-api-error
+>refactor/auth-service
+
+>[!TIPS]
+>Keep Names Short but Descriptive.
+>Use Lowercase + Hyphens
+>Avoid spaces or camelCase
+>Create Branches From develop or main
+
+---
+
+## Best Practices: Commit Message
+Follow the Conventional Structure
+
+A commit message usually has 3 parts:
+```bash
+<type>(<scope>): <short summary>
+<BLANK LINE>
+<longer description (optional)>
+```
+
+### Type
+Shows the purpose of the commit. Common types:
+| Type       | Use Case                                          |
+| ---------- | ------------------------------------------------- |
+| `feat`     | Adding a new feature                              |
+| `fix`      | Bug fix                                           |
+| `chore`    | Maintenance, updating dependencies                |
+| `docs`     | Documentation changes                             |
+| `refactor` | Code refactoring without changing behavior        |
+| `test`     | Adding or updating tests                          |
+| `style`    | Code style changes (formatting, semicolons, etc.) |
+
+### Scope (optional but recommended)
+
+The part of the code affected, e.g., auth, navbar, api.
+
+Example:
+```bash
+feat(auth): add user login endpoint
+```
+
+### Short Summary
+
+Keep it ≤50 characters
+- Use imperative mood (“Add”, “Fix”, not “Added” or “Fixed”)
+- Be clear and concise
+
+### Longer Description (optional but helpful)
+If needed, explain why the change was made or any important details.
+
+Example:
+```bash
+feat(auth): add user login endpoint
+```
+- Implemented JWT-based login. Updated User model and added validation.
+- This prepares backend for the new login page on the frontend.
+
+---
+## Multiple commits → one pull request
+If you make 5 commits on the same branch and then create one pull request from that branch, all 5 commits will be included in that single PR.
+
+Workflow:
+```bash
+git checkout -b feature/user-login   # create branch
+# make changes and commit multiple times
+git add .
+git commit -m "feat(auth): add login endpoint"
+git commit -m "fix(auth): handle login errors"
+git commit -m "style(auth): format login code"
+git commit -m "test(auth): add unit tests for login"
+git commit -m "docs(auth): update login documentation"
+git push origin feature/user-login
+```
+
+- Then you open one PR → it contains all 5 commits together.
+- This is the usual and recommended workflow.
+
+---
+## Scenario Based
+
+Suppose you:
+- Create branch feature/user-login
+- Make commit #1
+- Open PR #1
+- Make commit #2 on the same branch
+
+Here’s what happens:
+- PR #1 will automatically include commit #2, because it tracks the branch, not a single commit.
+- You cannot create a second PR from the same branch for commit #2 unless you make a new branch from that commit.
