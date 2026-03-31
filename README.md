@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEogvecCWWf1Q/profile-displaybackgroundimage-shrink_350_1400/B56Z1BApr7KcAY-/0/1774912186102?e=1776297600&v=beta&t=Sz1ZoLnxwOXx-PTVjJOYNcJ8hx78mWLiFvnS-w_CRLw"/>
+
 > [!IMPORTANT]
 > Hi, thank you for visiting here.
 >  I am Atul. I am here just to learn to code consistently with good coding practices.
