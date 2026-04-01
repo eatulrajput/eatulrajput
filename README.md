@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="Linkedin Banner (3)" src="https://github.com/user-attachments/assets/44976ea6-0e03-483b-92af-9b52250d69c3" />
+![banner](https://github.com/user-attachments/assets/bf2517aa-7fa9-4367-942c-a93327e7d00f)
 
 > [!IMPORTANT]
 > Hi, thank you for visiting here.
