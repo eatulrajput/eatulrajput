@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEogvecCWWf1Q/profile-displaybackgroundimage-shrink_350_1400/B56Z1BApr7KcAY-/0/1774912186102?e=1776297600&v=beta&t=Sz1ZoLnxwOXx-PTVjJOYNcJ8hx78mWLiFvnS-w_CRLw"/>
+
+<img width="1584" height="396" alt="Linkedin Banner (3)" src="https://github.com/user-attachments/assets/44976ea6-0e03-483b-92af-9b52250d69c3" />
 
 > [!IMPORTANT]
 > Hi, thank you for visiting here.
