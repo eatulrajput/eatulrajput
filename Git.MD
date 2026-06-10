@@ -373,3 +373,97 @@ Suppose you:
 Here’s what happens:
 - PR #1 will automatically include commit #2, because it tracks the branch, not a single commit.
 - You cannot create a second PR from the same branch for commit #2 unless you make a new branch from that commit.
+
+---
+## Git Branching Strategy for Shared Components and Feature Development
+
+## Scenario
+
+I have a feature branch called `booking` that contains:
+
+* Booking-related functionality
+* Reusable/common components
+
+The `booking` branch has not yet been merged into `main`.
+
+Now I need to build another feature that requires the same common components.
+
+## Recommended Solution
+
+### Option 1: Create the New Feature Branch from `booking`
+
+```bash
+git checkout booking
+git checkout -b new-feature
+```
+
+Branch structure:
+
+```text
+main
+ └── booking
+      └── new-feature
+```
+
+### Benefits
+
+* Keeps the `booking` PR focused on booking functionality.
+* Allows the new feature to reuse unmerged components.
+* Makes code reviews easier.
+* Prevents unrelated changes from being mixed into a single PR.
+
+---
+
+## What to Avoid
+
+### Do Not Rename the `booking` Branch
+
+Renaming the branch:
+
+* Creates confusion in pull requests.
+* Makes branch history harder to understand.
+* Does not solve dependency management.
+
+### Do Not Commit the New Feature Directly on `booking`
+
+Adding unrelated work to `booking`:
+
+* Makes the PR larger and harder to review.
+* Couples multiple features together.
+* Delays merging because everything must be reviewed at once.
+
+---
+
+## Better Long-Term Approach
+
+If the shared components are truly reusable across multiple features, extract them into their own branch:
+
+```text
+main
+ └── shared-components
+      ├── booking
+      └── new-feature
+```
+
+Workflow:
+
+1. Create a `shared-components` branch.
+2. Move reusable components there.
+3. Open a PR for shared components.
+4. Create feature branches from `shared-components`.
+
+### Benefits
+
+* Cleaner pull requests.
+* Better separation of concerns.
+* Easier maintenance.
+* Reduces dependencies between feature branches.
+
+---
+
+## Rule of Thumb
+
+> If Feature B depends on unmerged code from Feature A, create Feature B from Feature A.
+>
+> If the shared code is substantial and reusable, extract it into a dedicated shared-components branch and build both features from it.
+
